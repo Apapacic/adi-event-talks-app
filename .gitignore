@@ -1,0 +1,12 @@
+# Node.js
+node_modules/
+
+# Generated files
+index.html
+
+# Build scripts/tools that generate output
+generate-site.js
+
+# Environment variables
+.env
+.DS_Store
